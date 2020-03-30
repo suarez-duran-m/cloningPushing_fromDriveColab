@@ -2,7 +2,7 @@
 
 * [Step 1](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_fromDriveColab/blob/master/step1/creatingNotebookColab.ipynb) How to create a Notebook via Google Colab from https://colab.research.google.com/
 
-* [Step 2](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_from) How to saved a Notebook from Google Colab to Google Drive
+* [Step 2](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_fromDriveColab/blob/master/step2/savingNotebookDrive.ipynb) How to saved a Notebook from Google Colab to Google Drive
 
 * [Step 3](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_fromDriveColab/blob/master/step3/authorizingDrive.ipynb) How to authorize Google Drive access to GitHub
 
