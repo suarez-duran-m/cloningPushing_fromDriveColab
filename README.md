@@ -15,3 +15,5 @@
 * [Step 7](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_fromDriveColab/blob/master/step7/creatingNotebookPasteDriveRepo.ipynb) How to Create a Notebook via Google Colab and paste into directory-repo located in Google Drive
 
 * [Step 8](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_fromDriveColab/blob/master/step8/syncDriveWithGitHub.ipynb) Sync directory-repo from Google Drive to GitHub, via Google Colab
+
+* [Step Extra](https://nbviewer.jupyter.org/github/suarez-duran-m/cloningPushing_fromDriveColab/blob/master/stepExtra/editingPythonDrive.ipynb) How to edit a Python file from Google Drive
